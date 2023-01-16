@@ -1,0 +1,70 @@
+2023.01.08 17:49:08 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nidhiberde/JavaRun/.metals/lsp.trace.json or /Users/nidhiberde/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.08 17:49:09 INFO  logging to file /Users/nidhiberde/JavaRun/.metals/metals.log
+2023.01.08 17:49:09 INFO  Started: Metals version 0.11.10 in workspace '/Users/nidhiberde/JavaRun' for client Visual Studio Code 1.74.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/nidhiberde/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.08 17:49:11 INFO  time: initialize in 2.12s
+2023.01.08 17:49:18 WARN  Build server is not auto-connectable.
+2023.01.08 17:49:18 WARN  no build tool detected in workspace '/Users/nidhiberde/JavaRun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.08 17:49:18 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Main.scala
+2023.01.08 17:49:27 INFO  no build target found for /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+Jan 08, 2023 5:49:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jan 08, 2023 5:49:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jan 08, 2023 5:49:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.01.08 17:49:28 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Practice.scala
+2023.01.08 17:49:28 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Try.scala
+2023.01.08 17:49:28 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Practice.scala
+2023.01.08 17:49:31 INFO  time: code lens generation in 13s
+2023.01.08 17:49:32 INFO  time: code lens generation in 3.45s
+2023.01.08 17:49:32 INFO  time: code lens generation in 3.99s
+2023.01.08 17:49:32 INFO  time: code lens generation in 3.96s
+2023.01.15 19:34:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nidhiberde/JavaRun/.metals/lsp.trace.json or /Users/nidhiberde/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.15 19:34:22 INFO  logging to file /Users/nidhiberde/JavaRun/.metals/metals.log
+2023.01.15 19:34:22 INFO  Started: Metals version 0.11.10 in workspace '/Users/nidhiberde/JavaRun' for client Visual Studio Code 1.74.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/nidhiberde/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.15 19:34:27 INFO  time: initialize in 5.45s
+2023.01.15 19:34:34 WARN  Build server is not auto-connectable.
+2023.01.15 19:34:34 WARN  no build tool detected in workspace '/Users/nidhiberde/JavaRun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.15 19:34:34 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Practice.scala
+2023.01.15 19:34:43 INFO  no build target found for /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Practice.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.15 19:34:44 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Main.scala
+Jan 15, 2023 7:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Jan 15, 2023 7:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2023.01.15 19:34:44 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Practice.scala
+2023.01.15 19:34:47 INFO  time: code lens generation in 2.93s
+2023.01.15 19:34:47 INFO  time: code lens generation in 13s
+2023.01.15 19:34:48 INFO  time: code lens generation in 3.76s
+2023.01.15 19:35:47 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
+Jan 15, 2023 7:36:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 153
+Jan 15, 2023 7:37:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 225
+Jan 15, 2023 7:37:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 267
+Jan 15, 2023 7:38:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 412
+Jan 15, 2023 7:38:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 424
+Jan 15, 2023 7:38:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 464
+2023.01.15 19:38:56 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Practice.scala
+2023.01.15 19:40:04 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
+2023.01.15 19:41:48 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
+2023.01.15 19:42:35 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
+2023.01.15 19:42:49 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
+2023.01.15 19:44:21 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
+2023.01.15 19:48:51 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
