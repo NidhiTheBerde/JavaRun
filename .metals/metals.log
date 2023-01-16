@@ -225,3 +225,57 @@ WARNING: Unmatched cancel notification for request id 7859
 2023.01.16 01:57:03 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
 2023.01.16 01:57:03 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
 2023.01.16 01:57:04 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 12:17:53 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+Jan 16, 2023 12:19:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8325
+Jan 16, 2023 12:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8657
+Jan 16, 2023 12:33:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:101)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+Jan 16, 2023 12:33:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8743
+2023.01.16 12:35:38 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:35:38 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:35:38 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:35:38 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:38:08 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:38:08 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+Jan 16, 2023 12:42:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9254
+2023.01.16 12:42:27 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:45:55 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:45:55 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:45:55 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:45:55 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:45:56 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:45:56 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:47:27 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:47:27 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:47:28 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:47:28 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:47:58 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:47:58 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:48:18 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Practice.scala
+2023.01.16 12:48:36 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 12:48:58 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+Jan 16, 2023 1:36:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9937
+2023.01.16 13:37:22 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 13:37:54 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 13:38:32 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 13:44:02 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 13:44:02 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 13:44:02 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 13:44:02 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
+2023.01.16 13:44:03 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Stacks.scala
