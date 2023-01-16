@@ -121,3 +121,107 @@ WARNING: Unmatched cancel notification for request id 1319
 2023.01.15 20:57:05 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
 2023.01.15 20:57:06 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
 2023.01.15 20:57:06 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Lists.scala
+2023.01.15 20:59:55 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+Jan 15, 2023 9:00:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1921
+Jan 15, 2023 9:12:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3089
+2023.01.15 21:12:31 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+Jan 15, 2023 9:14:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3364
+2023.01.15 21:17:32 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.15 21:17:48 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+Jan 15, 2023 11:33:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3926
+Jan 16, 2023 12:39:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4878
+Jan 16, 2023 12:41:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5102
+2023.01.16 00:43:12 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+Jan 16, 2023 12:43:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5288
+2023.01.16 00:43:49 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:44:06 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:45:19 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:45:19 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:45:37 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:48:16 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:48:22 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:48:51 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:48:52 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:51:24 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:53:55 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+Jan 16, 2023 12:55:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5703
+2023.01.16 00:55:48 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:55:48 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:55:49 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:55:48 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:55:49 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:55:50 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:55:50 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:57:24 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:57:24 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 00:57:24 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 01:13:08 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/ProjectGrocery.scala
+2023.01.16 01:24:15 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+Jan 16, 2023 1:24:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5785
+Jan 16, 2023 1:25:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5990
+Jan 16, 2023 1:25:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5988
+Jan 16, 2023 1:26:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6056
+Jan 16, 2023 1:26:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6077
+Jan 16, 2023 1:28:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6487
+Jan 16, 2023 1:35:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6971
+2023.01.16 01:36:11 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:36:11 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:36:11 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:37:00 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:37:27 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:37:48 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:38:44 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:41:06 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:41:06 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:45:34 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:45:44 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:46:12 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:47:26 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:47:26 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:47:27 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:47:26 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+Jan 16, 2023 1:50:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7525
+Jan 16, 2023 1:51:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7723
+Jan 16, 2023 1:51:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7732
+Jan 16, 2023 1:51:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7819
+Jan 16, 2023 1:51:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7817
+Jan 16, 2023 1:51:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7859
+2023.01.16 01:52:22 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:52:22 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:52:23 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:52:23 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:52:32 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:52:32 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:53:52 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:53:53 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:54:31 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:54:31 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:54:31 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:54:32 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:54:51 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:54:51 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:57:03 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:57:03 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:57:03 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
+2023.01.16 01:57:04 WARN  no build target for: /Users/nidhiberde/JavaRun/hello-world/src/main/scala/Maps.scala
